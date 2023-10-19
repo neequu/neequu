@@ -10,7 +10,7 @@
 <h3 align="left" >Связь со мной:</h3>
 
 - Почта для связи: [📧](https://mail.google.com/mail/u/0/?fs=1&to=neequue@gmail.com&su=Enquiry&tf=cm)
-- Телеграмм: <a href="https://t.me/neequu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram link" height="20" width="20" /></a>
+- Телеграм: <a href="https://t.me/neequu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram link" height="20" width="20" /></a>
 
 ### Языки и инструменты, которыми я владею: (при наведении всплывет тайтл с названием)
 <p>

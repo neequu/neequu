@@ -1,6 +1,8 @@
 <h1 align="center">Добро пожаловать на мою страницу Github</h1>
 <h3 align="center">Меня зовут никита, мне 20 лет. Я - веб-разработчик на Vue и React</h3>
-<br/>
+<p  align="center">
+<img src="https://64.media.tumblr.com/4ebfe1a95021ff72b307f2c414794fd4/ee3cec6783979ec3-35/s500x750/088ba98a8e53dcb22dc3526b7fe6d035b20b14f6.gifv"/>
+</p>
 
 - 🎓Начинающий веб-разработчик, увлеченный созданием инновационных продуктов в сфере веб;
 - 💻 Ежедневно работаю над собственными проектами, используя **Next.js** **13** и **Nuxt** **3**, изучая лучшие практики в современных веб-фреймворках;
@@ -13,6 +15,7 @@
 - Телеграм: <a href="https://t.me/neequu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram link" height="20" width="20" /></a>
 
 ### Языки и инструменты, которыми я владею: (при наведении всплывет тайтл с названием)
+<div align="center">
 <p>
 <img align="left" title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" title="Vuejs" alt="Vuejs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
@@ -59,8 +62,32 @@
 <img align="left" title="Wordpress" alt="Wordpress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
 <img align="left" title="Photoshop" alt="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
   </p>
+</div>
 <br/>
 <br/>
 <br/>
-<img align="righttitlealt="header  alt="header image" src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<br/>
+<br/>
 
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neequu)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=neequu&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=neequu)  
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=neequu)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+<br/>
+<div>
+</div>
+<img align="righttitlealt="header  alt="header image" src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<br/>
+<div align="center">
+  
+![GitHub metrics](https://metrics.lecoq.io/neequu)  
+
+</div>

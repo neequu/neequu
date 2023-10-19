@@ -75,10 +75,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neequu&show_icons=true)  
 
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=neequu)  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=neequu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=neequu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <br/>

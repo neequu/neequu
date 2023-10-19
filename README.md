@@ -71,12 +71,12 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neequu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neequu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neequu&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=neequu&show_icons=true&theme=radical)  
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=neequu)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=neequu&theme=radical)  
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neequu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
